@@ -1,0 +1,6 @@
+Man lives on Land
+Fish lives in Water
+Crow lives on trees
+Monkey lives on trees
+Dolphin lives in Water
+Cow lives on Land
